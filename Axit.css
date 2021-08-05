@@ -291,9 +291,12 @@ h3 {
 
 /*Bild*/
 #bild {
+	width: 350px;
+	height: ;
 	float: right;
-	margin-right: 150px;
-	margin-top: -250px;
+	margin-right: 50px;
+	margin-top: -230px;
+	padding-left: 100px;
 }
 
 /*Section*/
